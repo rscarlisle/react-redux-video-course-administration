@@ -2,3 +2,21 @@ node_modules
 .DS_Store
 *.swp
 src/api/db.json
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+#dist folder
+dist
+
+#Webstorm metadata
+.idea
+
+# Mac files
+.DS_Store
